@@ -1,0 +1,60 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartOakProject.Api", "SmartOakProject.Api\SmartOakProject.Api.csproj", "{18B8D255-3761-4607-9588-E2E57779956A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartOakProject.Queries", "SmartOakProject.Queries\SmartOakProject.Queries.csproj", "{3957C792-28F2-4958-A5B4-CFCBA3E82D16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartOakProject.Commands", "SmartOakProject.Commands\SmartOakProject.Commands.csproj", "{DBE74A74-AFED-4919-93A1-5AF932C0F27B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartOakProject.Db", "SmartOakProject.Db\SmartOakProject.Db.csproj", "{5EDFE06C-B9BD-496D-8A3F-63B452AE318B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartOakProject.Services", "SmartOakProject.Services\SmartOakProject.Services.csproj", "{2FE0D792-F368-454C-80EA-8649EAB244BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Kestrel|Any CPU = Kestrel|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18B8D255-3761-4607-9588-E2E57779956A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18B8D255-3761-4607-9588-E2E57779956A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18B8D255-3761-4607-9588-E2E57779956A}.Kestrel|Any CPU.ActiveCfg = Kestrel|Any CPU
+		{18B8D255-3761-4607-9588-E2E57779956A}.Kestrel|Any CPU.Build.0 = Kestrel|Any CPU
+		{18B8D255-3761-4607-9588-E2E57779956A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18B8D255-3761-4607-9588-E2E57779956A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3957C792-28F2-4958-A5B4-CFCBA3E82D16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3957C792-28F2-4958-A5B4-CFCBA3E82D16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3957C792-28F2-4958-A5B4-CFCBA3E82D16}.Kestrel|Any CPU.ActiveCfg = Kestrel|Any CPU
+		{3957C792-28F2-4958-A5B4-CFCBA3E82D16}.Kestrel|Any CPU.Build.0 = Kestrel|Any CPU
+		{3957C792-28F2-4958-A5B4-CFCBA3E82D16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3957C792-28F2-4958-A5B4-CFCBA3E82D16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBE74A74-AFED-4919-93A1-5AF932C0F27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBE74A74-AFED-4919-93A1-5AF932C0F27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBE74A74-AFED-4919-93A1-5AF932C0F27B}.Kestrel|Any CPU.ActiveCfg = Kestrel|Any CPU
+		{DBE74A74-AFED-4919-93A1-5AF932C0F27B}.Kestrel|Any CPU.Build.0 = Kestrel|Any CPU
+		{DBE74A74-AFED-4919-93A1-5AF932C0F27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBE74A74-AFED-4919-93A1-5AF932C0F27B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EDFE06C-B9BD-496D-8A3F-63B452AE318B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDFE06C-B9BD-496D-8A3F-63B452AE318B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDFE06C-B9BD-496D-8A3F-63B452AE318B}.Kestrel|Any CPU.ActiveCfg = Kestrel|Any CPU
+		{5EDFE06C-B9BD-496D-8A3F-63B452AE318B}.Kestrel|Any CPU.Build.0 = Kestrel|Any CPU
+		{5EDFE06C-B9BD-496D-8A3F-63B452AE318B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDFE06C-B9BD-496D-8A3F-63B452AE318B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FE0D792-F368-454C-80EA-8649EAB244BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FE0D792-F368-454C-80EA-8649EAB244BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FE0D792-F368-454C-80EA-8649EAB244BC}.Kestrel|Any CPU.ActiveCfg = Kestrel|Any CPU
+		{2FE0D792-F368-454C-80EA-8649EAB244BC}.Kestrel|Any CPU.Build.0 = Kestrel|Any CPU
+		{2FE0D792-F368-454C-80EA-8649EAB244BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FE0D792-F368-454C-80EA-8649EAB244BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C0259DE-E54E-4FB4-8779-158F65A3BCA2}
+	EndGlobalSection
+EndGlobal

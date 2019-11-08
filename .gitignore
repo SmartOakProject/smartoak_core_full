@@ -1,0 +1,13 @@
+/SmartOakProject.Api/SmartOakProject.Api/bin
+/SmartOakProject.Api/SmartOakProject.Api/obj
+/SmartOakProject.Api/.vs
+bin
+obj
+/SmartOakProject.Api/SmartOakProject.Commands/bin
+/SmartOakProject.Api/SmartOakProject.Commands/obj
+/SmartOakProject.Api/SmartOakProject.Db/bin
+/SmartOakProject.Api/SmartOakProject.Db/obj
+/SmartOakProject.Api/SmartOakProject.Queries/bin
+/SmartOakProject.Api/SmartOakProject.Queries/obj
+/SmartOakProject.Api/SmartOakProject.Services/bin
+/SmartOakProject.Api/SmartOakProject.Services/obj
